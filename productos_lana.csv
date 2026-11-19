@@ -1,0 +1,11 @@
+id_producto,marca,composicion,grosor,peso_ovillo_g,metros_ovillo
+P001,Katia,Acrilico,Fino,100,300
+P002,Katia,Algodon,Medio,100,200
+P003,Katia,Lana,Fino,50,125
+P004,DROPS,Acrilico,Medio,100,200
+P005,DROPS,Algodon,Medio,50,100
+P006,DROPS,Lana,Fino,50,105
+P007,Katia,Acrilico,Grueso,100,120
+P008,DROPS,Algodon,Fino,50,170
+P009,Katia,Mezcla lana,Medio,100,150
+P010,DROPS,Acrilico,Medio,100,250
